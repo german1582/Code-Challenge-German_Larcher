@@ -1,11 +1,3 @@
 {
-    "testFiles": "**/*.feature",
-    "screenshotOnRunFailure": true,
-    "reporter": "cypress-mochawesome-reporter",
-    "reporterOptions": {
-        "reportDir": "cypress/report",
-        "charts": true,
-        "reportPageTitle": "custom-title",
-        "embeddedScreenshots": true
-    }
+    "testFiles": "**/*.feature"
 }
