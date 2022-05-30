@@ -11,14 +11,18 @@ Given('1. Ingresar a eBay', () => {
 When('2. Buscar {string}', (text_to_search) => {
     eBay.type_to_search(text_to_search)
     eBay.click_to_search()
+    eBaySearchPage.validate_search(text_to_search)
+
 })
 
 Then('3. Buscar marca {string}', () => {
     eBaySearchPage.check_on_brand()
+    eBaySearchPage.validate_element_is_visible("(//div[contains(.,\'PUMA\')])[12]")
 })
 
 Then('4. Elegir tamaño {string}', () => {
     eBaySearchPage.check_on_size()
+    eBaySearchPage.validate_element_is_visible("(//div[contains(.,'Talla de calzado Estados Unidos: 10')])[12]")
 })
 
 Then('5. Imprimir el número de resultados', () => {
