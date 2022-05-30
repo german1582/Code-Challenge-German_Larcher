@@ -1,7 +1,7 @@
 Feature: Code Challenge - Germán Larcher
   Scenario: Analista QA Automation
-  Buscámos los mejores talentos, resuelve el siguiente reto tech y se parte del grupo más importante...
-    Asumptions:
+  Buscamos los mejores talentos, resuelve el siguiente reto tech y se parte del grupo más importante...
+    Assumptions:
     7. Este punto es ambiguo y entiendo que su requerimento esta implementado y contemplado en el punto 8. En un proyecto real  jamás me quedaría con la ambiguedad si no que la resolvería lo antes posible quitándome la duda con alguien de negocio o quien haya escrito la user story.
     8. Asumo que debemos seguir trabajando sobre la misma búsqueda terminada en el punto 6
     9. Idem punto 8. Asumo que debemos seguir trabajando sobre la misma búsqueda terminada en el punto 6

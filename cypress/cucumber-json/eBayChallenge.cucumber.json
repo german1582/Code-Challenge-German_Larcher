@@ -8,7 +8,7 @@
     "uri": "eBayChallenge.feature",
     "elements": [
       {
-        "description": "  Buscámos los mejores talentos, resuelve el siguiente reto tech y se parte del grupo más importante...\n    Asumptions:\n    7. Este punto es ambiguo y entiendo que su requerimento esta implementado y contemplado en el punto 8. En un proyecto real  jamás me quedaría con la ambiguedad si no que la resolvería lo antes posible quitándome la duda con alguien de negocio o quien haya escrito la user story.\n    8. Asumo que debemos seguir trabajando sobre la misma búsqueda terminada en el punto 6\n    9. Idem punto 8. Asumo que debemos seguir trabajando sobre la misma búsqueda terminada en el punto 6\n    10. Idem punto 8. Asumo que debemos seguir trabajando sobre la misma búsqueda terminada en el punto 6\n    Los puntos 11. Subir código a GitHub 12. Ejecutarlo con un Job de Jenkins  y 13. El reporte debe ser enviado por email (puntos bonus si graban la ejecución de la prueba son tratado por fuera del alcance del código de este proyecto.",
+        "description": "  Buscamos los mejores talentos, resuelve el siguiente reto tech y se parte del grupo más importante...\n    Assumptions:\n    7. Este punto es ambiguo y entiendo que su requerimento esta implementado y contemplado en el punto 8. En un proyecto real  jamás me quedaría con la ambiguedad si no que la resolvería lo antes posible quitándome la duda con alguien de negocio o quien haya escrito la user story.\n    8. Asumo que debemos seguir trabajando sobre la misma búsqueda terminada en el punto 6\n    9. Idem punto 8. Asumo que debemos seguir trabajando sobre la misma búsqueda terminada en el punto 6\n    10. Idem punto 8. Asumo que debemos seguir trabajando sobre la misma búsqueda terminada en el punto 6\n    Los puntos 11. Subir código a GitHub 12. Ejecutarlo con un Job de Jenkins  y 13. El reporte debe ser enviado por email (puntos bonus si graban la ejecución de la prueba son tratado por fuera del alcance del código de este proyecto.",
         "id": "code-challenge---germán-larcher;analista-qa-automation",
         "keyword": "Scenario",
         "line": 2,
@@ -23,7 +23,7 @@
             "name": "1. Ingresar a eBay",
             "result": {
               "status": "passed",
-              "duration": 4047000000
+              "duration": 2787000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "2. Buscar \"shoes\"",
             "result": {
               "status": "passed",
-              "duration": 7505000000
+              "duration": 7109000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "3. Buscar marca \"PUMA\"",
             "result": {
               "status": "passed",
-              "duration": 4263000000
+              "duration": 3745000000
             }
           },
           {
@@ -53,7 +53,7 @@
             "name": "4. Elegir tamaño \"10\"",
             "result": {
               "status": "passed",
-              "duration": 3061000000
+              "duration": 2840000000
             }
           },
           {
@@ -63,7 +63,7 @@
             "name": "5. Imprimir el número de resultados",
             "result": {
               "status": "passed",
-              "duration": 30000000
+              "duration": 212000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "6. Ordenar el precio por ascendente",
             "result": {
               "status": "passed",
-              "duration": 3360000000
+              "duration": 2974000000
             }
           },
           {
@@ -83,7 +83,7 @@
             "name": "7. Mantener el orden tomando los primeros 5 resultados",
             "result": {
               "status": "passed",
-              "duration": 11000000
+              "duration": 121000000
             }
           },
           {
@@ -93,7 +93,7 @@
             "name": "8. Elige los primeros 5 productos con sus precios e imprímelos en la consola",
             "result": {
               "status": "passed",
-              "duration": 186000000
+              "duration": 1886000000
             }
           },
           {
@@ -103,7 +103,7 @@
             "name": "9. Ordena e imprime los productos por nombre ascendente",
             "result": {
               "status": "passed",
-              "duration": 185000000
+              "duration": 1315000000
             }
           },
           {
@@ -113,7 +113,7 @@
             "name": "10. Ordena e imprime los productos por precio descendente",
             "result": {
               "status": "passed",
-              "duration": 235000000
+              "duration": 1325000000
             }
           }
         ]
